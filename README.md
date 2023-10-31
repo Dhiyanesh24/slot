@@ -23,11 +23,10 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## CODE
-'''
-<!DOCTYPE html>
+```
 <html>
 <head>
-    <title>SLOT TIME TABLE - Dhiyaneshwar (22002240)</title>
+    <title>SLOT TIME TABLE</title>
     <style>
         table {
             border-collapse: collapse;
@@ -148,7 +147,7 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
-'''
+```
 
 ## OUTPUT
 ![logo](https://github.com/Dhiyanesh24/slot/assets/118362288/d85ed76f-6075-4020-bee8-e72c6ac19bed)
