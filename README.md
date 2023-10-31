@@ -151,7 +151,8 @@ Execute the program using runserver command.
 '''
 
 ## OUTPUT
-![image](https://github.com/Dhiyanesh24/slot/assets/118362288/0a4bdf57-3850-4213-a710-63e2e400b872)
+![logo](https://github.com/Dhiyanesh24/slot/assets/118362288/d85ed76f-6075-4020-bee8-e72c6ac19bed)
+
 
 
 ## HTML VALIDATOR
